@@ -1,0 +1,19 @@
+{
+    "name": "dd/test",
+    "description": "testing",
+    "autoload": {
+        "psr-4": {
+            "Dd\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DD",
+            "email": "dedy.darmawan@global.ntt"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:5000"
+    }
+}
