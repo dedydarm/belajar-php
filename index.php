@@ -18,9 +18,9 @@
             if ($Umur >= 13){
                 echo "Kamu sudah dewasa";
                 echo "</br>";
-                echo "Selamat datangaa";
+                echo "Selamat datanga";
                 echo "</br>";
-                echo "Kamu boleh minum ssskopi";
+                echo "Kamu boleh minum kopi";
             }
         ?>
     </body>
